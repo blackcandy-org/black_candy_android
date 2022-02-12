@@ -1,1 +1,1 @@
-# black_candy_android
+# Black Candy for Android
